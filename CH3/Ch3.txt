@@ -1,0 +1,9 @@
+switch statement can be used somewhat similarly to an else statement
+
+switch(expression){
+    case const-expr: statement;
+    case const-expr: statement;
+    default: statement;
+}
+
+If the test expression in a for loop is dropped, it is assumed to be true;
