@@ -1,0 +1,8 @@
+atof(string to float) is an extension of atoi(string to integer) which is in stdlib.h
+
+External variables are any variables defined outside of a given function and thus are avaliable to many functions
+Functions are by default external because functions can't be defined in functions.
+
+By default, external variables and functions have the property that all references to them by them
+same name, even from functions compiled separately, are references to the same thing.
+
